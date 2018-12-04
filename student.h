@@ -12,6 +12,6 @@ class student
     public:
     // prototype 
     void setName(string firstName, string lastName);
-    void fullName();
+    string fullName();
 };
 #endif
